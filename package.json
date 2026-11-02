@@ -50,9 +50,9 @@
     "@hono/node-server": "^1.19.17",
     "@hono/zod-openapi": "^0.19.10",
     "@hono/zod-validator": "^0.9.1",
-    "@scalar/hono-api-reference": "^0.12.14",
-    "hono": "^4.13.14",
-    "node-forge": "^1.4.0",
+    "@scalar/hono-api-reference": "^0.12.17",
+    "hono": "^4.13.16",
+    "node-forge": "^1.4.2",
     "zod": "^3.25.76"
   },
   "devDependencies": {
@@ -70,9 +70,9 @@
     "eslint-plugin-prettier": "^5.5.7",
     "prettier": "^3.9.10",
     "simple-git-hooks": "^2.14.0",
-    "tsc-alias": "^1.9.9",
+    "tsc-alias": "^1.9.10",
     "typescript": "^5.9.3",
     "vitest": "^3.2.7",
-    "wrangler": "^4.152.0"
+    "wrangler": "^4.156.1"
   }
 }
